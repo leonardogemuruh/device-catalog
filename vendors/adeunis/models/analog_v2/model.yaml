@@ -39,12 +39,12 @@ specificationURL: https://adeunis.freshdesk.com/helpdesk/attachments/22047399642
 userGuideURL: 
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors: 
-- ttime:keepAlive:minute
-- duration:2:ms
-- duration:1:s
+- time:minute
+- duration:ms
+- duration:s
 - volatge:V
 - current:mA
-- time:data:minute
+- time:minute
 - batteryVoltage:uV
 
 # Driver examples

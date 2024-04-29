@@ -35,22 +35,12 @@ specificationURL: https://lora-alliance.org/wp-content/uploads/2022/03/SMART_BUI
 userGuideURL: 
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
-- time:Period:s
-- time:blackOut:h
+- time::s
+- time::h
 - duration:ms
 - duration:minute
-- temerature:Max:Cel
-- temerature:Min:Cel
-- temerature:Average:Cel
-- co2Level:Max:ppm
-- co2Level:Min:ppm
-- co2Level:Average:ppm
-- humidity:Min:%RH
-- humidity:Max:%RH
-- humidity:Average:%RH
-- humidity:%RH
 - co2Level:ppm
-- temerature:Cel
+- temperature:Cel
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
