@@ -37,6 +37,7 @@ userGuideURL: https://adeunis.notion.site/Guide-Utilisateur-TEMP-TEMP2S-LoRaWAN-
 sensors:
     - duration:s
     - temperature:Cel
+    - count:.
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:

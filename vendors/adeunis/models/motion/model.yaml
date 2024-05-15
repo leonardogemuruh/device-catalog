@@ -45,6 +45,7 @@ sensors:
 - duration:ms
 - illuminance:lx
 - per:%
+- count:.
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
