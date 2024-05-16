@@ -43,7 +43,7 @@ userGuideURL:
 sensors:
 - time:s
 - duration:ms
-- illuminance:lx
+- luminosity:%
 - per:%
 - count:.
 # Driver examples
