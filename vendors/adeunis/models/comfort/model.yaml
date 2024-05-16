@@ -43,6 +43,7 @@ sensors:
 - duration:ms
 - humidity:%RH
 - temperature:Cel
+- count:.
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
