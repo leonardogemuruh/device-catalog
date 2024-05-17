@@ -30,7 +30,7 @@ LoRaWANCertified: true
 modelId: b-meters:hydrodigit:1
 # <vendorId>:<protocolName>:<protocolVersion> Needed for linking the model with a specific driver -> must be the same one used in driver.yaml in the corresponding model (You might have several ones)
 # Be careful: Once you chose a protocolId, it cannot be changed later
-protocolId:
+protocolId: b-meters:hydrodigit:1
 # DataSheet URL (optional)
 specificationURL: https://bmetersuk.com/products/hydrodigit/
 # User Guide URL (optional)
