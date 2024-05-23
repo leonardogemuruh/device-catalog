@@ -37,3 +37,8 @@ specificationURL: https://bmetersuk.com/products/hydrodigit/
 userGuideURL:
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
+- volume:l
+- temperature:Cel
+- time:h
+- status:bool 
+- batteryVoltage:mV
