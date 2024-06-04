@@ -43,7 +43,7 @@ sensors:
 - pressure:Pa
 - time:s
 - duration:ms
-- count:.
+- counter:count
 
 # Driver examples
 # A list of examples description that are compatible with this model

@@ -43,9 +43,9 @@ userGuideURL:
 sensors:
 - time:s
 - duration:ms
-- luminosity:%
+- luminosityLevel:%
 - per:%
-- count:.
+- counter:count
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:

@@ -42,10 +42,11 @@ sensors:
 - time:minute
 - duration:ms
 - duration:s
-- volatge:V
+- batteryVoltage:V
 - current:mA
 - time:minute
 - batteryVoltage:uV
+
 
 # Driver examples
 # A list of examples description that are compatible with this model

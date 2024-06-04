@@ -43,7 +43,7 @@ userGuideURL:
 sensors:
 - temperature:Cel
 - time:s
-- count:.
+- counter:count
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:

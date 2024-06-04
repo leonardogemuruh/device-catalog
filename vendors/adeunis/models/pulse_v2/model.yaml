@@ -43,7 +43,7 @@ userGuideURL: https://adeunis.freshdesk.com/helpdesk/attachments/22040103139
 sensors:
 - frequency:pulse/h
 - time:s
-- count:.
+- counter:count
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
