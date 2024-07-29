@@ -51,4 +51,4 @@ examples:
         - "Configure report response"
         - "Read configure report response"
         - "Configure report request"
-        - "Read configure report request"
+        - "Read configure report request" 

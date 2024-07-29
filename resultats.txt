@@ -1,0 +1,2609 @@
+Vendor: abeeway
+ Model:
+abeeway-geolocation-module
+	 Aucun protocolId trouvé
+compact-tracker
+	 Aucun protocolId trouvé
+indus-tracker_v2
+	 Aucun protocolId trouvé
+micro-tracker_v2
+	 Aucun protocolId trouvé
+micro-tracker_v3
+	 Aucun protocolId trouvé
+smart-badge
+	 Aucun protocolId trouvé
+
+Vendor: acrios
+ Model:
+m-bus-iot-converter
+	 Aucun protocolId trouvé
+zhaga-smart-street-light-module
+	 Aucun protocolId trouvé
+
+Vendor: adeunis
+ Model:
+analog_v2
+	 ProtocolId :
+		 adeunis:analog:2
+		   Contient des exemples : oui
+breath
+	 ProtocolId :
+		 adeunis:breath:1
+		   Contient des exemples : oui
+comfort
+	 ProtocolId :
+		 adeunis:comfort:1
+		   Contient des exemples : oui
+comfort-co2
+	 ProtocolId :
+		 adeunis:comfort:1
+		   Contient des exemples : oui
+delta-p
+	 ProtocolId :
+		 adeunis:delta-p:1
+		   Contient des exemples : oui
+demonstrator
+	 Aucun protocolId trouvé
+dry-contacts_v2
+	 ProtocolId :
+		 adeunis:dry-contacts:2
+		   Contient des exemples : oui
+field-test
+	 ProtocolId :
+		 adeunis:field-test:1
+		   Contient des exemples : oui
+generic-sensors
+	 Aucun protocolId trouvé
+modbus
+	 ProtocolId :
+		 adeunis:modbus:2
+		   Contient des exemples : oui
+motion
+	 ProtocolId :
+		 adeunis:motion:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 adeunis:motion:2
+		   Contient des exemples : oui
+pulse_v2
+	 ProtocolId :
+		 adeunis:pulse:2
+		   Contient des exemples : oui
+	 ProtocolId :
+		 adeunis:pulse:3
+		   Contient des exemples : oui
+pulse_v4
+	 ProtocolId :
+		 adeunis:pulse4:1
+		   Contient des exemples : oui
+temp_v2
+	 ProtocolId :
+		 adeunis:temp:2
+		   Contient des exemples : oui
+	 ProtocolId :
+		 adeunis:temp:3
+		   Contient des exemples : oui
+temp_v4
+	 ProtocolId :
+		 adeunis:temp4:1
+		   Contient des exemples : oui
+tic
+	 ProtocolId :
+		 adeunis:tic:1
+		   Contient des exemples : oui
+
+Vendor: advantech
+ Model:
+wise-2200
+	 Aucun protocolId trouvé
+wise-2410
+	 Aucun protocolId trouvé
+wise-4610
+	 Aucun protocolId trouvé
+
+Vendor: agrime
+ Model:
+discopoc_v2
+	 Aucun protocolId trouvé
+
+Vendor: alpha-omega-technology
+ Model:
+klax_v2
+	 ProtocolId :
+		 os1-alph:klax:2
+		   Contient des exemples : oui
+
+Vendor: aquascope
+ Model:
+aqs
+	 ProtocolId :
+		 os1-aqua:aqs:1
+		   Contient des exemples : oui
+bvs
+	 ProtocolId :
+		 os1-aqua:bvs:1
+		   Contient des exemples : oui
+kfr
+	 ProtocolId :
+		 os1-aqua:kfr:1
+		   Contient des exemples : oui
+wwd
+	 ProtocolId :
+		 os1-aqua:wwd:1
+		   Contient des exemples : oui
+
+Vendor: arduino
+ Model:
+lora-vision-shie
+	 ProtocolId :
+		 os1-ardu:lora-vision-shie:1
+		   Contient des exemples : oui
+mkr-wan-1310_v2
+	 ProtocolId :
+		 os1-ardu:mkr-wan-1310:2
+		   Contient des exemples : oui
+
+Vendor: atim
+ Model:
+air-quality
+	 Aucun protocolId trouvé
+analogue-input-gateway
+	 Aucun protocolId trouvé
+atex-smart-pulse-metering-or-dry-contact
+	 ProtocolId :
+		 atim:generic:1
+		   Contient des exemples : oui
+dry-contacts-or-smart-metering-inputs
+	 Aucun protocolId trouvé
+dry-contacts-or-smart-metering-inputs-and-outputs
+	 Aucun protocolId trouvé
+indoor-temperature-and-humidity
+	 Aucun protocolId trouvé
+leak-detection
+	 Aucun protocolId trouvé
+lorawan-network-tester
+	 Aucun protocolId trouvé
+modbus-master-gateway
+	 Aucun protocolId trouvé
+motion-detection
+	 Aucun protocolId trouvé
+outdoor-temperature-and-humidity
+	 Aucun protocolId trouvé
+pt1000-temperature-probe
+	 Aucun protocolId trouvé
+smart-pulse-metering-or-dry-contacts
+	 ProtocolId :
+		 os1-atim:decode1:1
+		   Contient des exemples : oui
+temperature-and-humidity-probe
+	 Aucun protocolId trouvé
+ultrasonic-level-measurement
+	 Aucun protocolId trouvé
+
+Vendor: axioma
+ Model:
+w1
+	 ProtocolId :
+		 axioma:w1:1
+		   Contient des exemples : oui
+
+Vendor: b-meters
+ Model:
+iwm-lr3
+	 Aucun protocolId trouvé
+
+Vendor: baylan
+ Model:
+tk-4-rf-multi-jet-dry-type-water-meter
+	 Aucun protocolId trouvé
+
+Vendor: beiselen
+ Model:
+digisilo-radar-sensor
+	 Aucun protocolId trouvé
+
+Vendor: bosch
+ Model:
+tps110
+	 ProtocolId :
+		 os1-bosc:tps110:0
+		   Contient des exemples : oui
+
+Vendor: browan
+ Model:
+tbam100
+	 ProtocolId :
+		 os1-brow:tbam100:1
+		   Contient des exemples : oui
+tbdw100
+	 ProtocolId :
+		 os1-brow:tbdw100:1
+		   Contient des exemples : oui
+tbhh100
+	 ProtocolId :
+		 os1-brow:tbhh100:1
+		   Contient des exemples : oui
+tbhv110
+	 ProtocolId :
+		 os1-brow:tbhv110:1
+		   Contient des exemples : oui
+tbms100
+	 ProtocolId :
+		 os1-brow:tbms100:1
+		   Contient des exemples : oui
+tbpb100
+	 ProtocolId :
+		 os1-brow:tbpb100:1
+		   Contient des exemples : oui
+tbsl100
+	 ProtocolId :
+		 os1-brow:tbsl100:1
+		   Contient des exemples : oui
+tbwl100
+	 ProtocolId :
+		 os1-brow:tbwl100:1
+		   Contient des exemples : oui
+
+Vendor: cisco
+ Model:
+av200
+	 Aucun protocolId trouvé
+av201
+	 Aucun protocolId trouvé
+av202
+	 Aucun protocolId trouvé
+av203
+	 Aucun protocolId trouvé
+av204
+	 Aucun protocolId trouvé
+av205
+	 Aucun protocolId trouvé
+av206
+	 Aucun protocolId trouvé
+av207
+	 Aucun protocolId trouvé
+av250
+	 Aucun protocolId trouvé
+av251
+	 Aucun protocolId trouvé
+av300
+	 Aucun protocolId trouvé
+
+Vendor: comtac
+ Model:
+lpn-cm4
+	 ProtocolId :
+		 os1-comt:lpn-cm4:1
+		   Contient des exemples : oui
+lpn-km
+	 ProtocolId :
+		 os1-comt:lpn-km:1
+		   Contient des exemples : oui
+lpn-td1_v2
+	 ProtocolId :
+		 os1-comt:lpn-td2:1
+		   Contient des exemples : oui
+lpn-tsm-transformer-station-monitor
+	 Aucun protocolId trouvé
+
+Vendor: decentlab
+ Model:
+dl-5tm
+	 ProtocolId :
+		 dl:dl-5tm:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-5tm:1
+		   Contient des exemples : oui
+dl-atm22
+	 ProtocolId :
+		 dl:dl-atm22:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-atm22:1
+		   Contient des exemples : oui
+dl-atm41
+	 ProtocolId :
+		 dl:dl-atm41:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-atm41:1
+		   Contient des exemples : oui
+dl-ctd10
+	 ProtocolId :
+		 dl:dl-ctd10:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-ctd10:1
+		   Contient des exemples : oui
+dl-dlr2-002
+	 ProtocolId :
+		 os1-dece:dl-dlr2-002:1
+		   Contient des exemples : oui
+dl-dlr2-003
+	 ProtocolId :
+		 os1-dece:dl-dlr2-003:1
+		   Contient des exemples : oui
+dl-dlr2-004
+	 ProtocolId :
+		 os1-dece:dl-dlr2-004:1
+		   Contient des exemples : oui
+dl-dlr2-005
+	 ProtocolId :
+		 os1-dece:dl-dlr2-005:1
+		   Contient des exemples : oui
+dl-dlr2-006
+	 ProtocolId :
+		 os1-dece:dl-dlr2-006:1
+		   Contient des exemples : oui
+dl-dlr2-008
+	 ProtocolId :
+		 os1-dece:dl-dlr2-008:1
+		   Contient des exemples : oui
+dl-dlr2-010
+	 ProtocolId :
+		 os1-dece:dl-dlr2-010:1
+		   Contient des exemples : oui
+dl-dlr2-012
+	 ProtocolId :
+		 os1-dece:dl-dlr2-012:1
+		   Contient des exemples : oui
+dl-ds18
+	 ProtocolId :
+		 dl:dl-ds18:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-dlr2-012:1
+		   Contient des exemples : oui
+dl-dws
+	 ProtocolId :
+		 os1-dece:dl-dws:1
+		   Contient des exemples : oui
+dl-iam
+	 ProtocolId :
+		 dl:dl-iam:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-iam:1
+		   Contient des exemples : oui
+dl-itst
+	 ProtocolId :
+		 dl:dl-itst:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-itst:1
+		   Contient des exemples : oui
+dl-kl66
+	 ProtocolId :
+		 dl:dl-kl66:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-kl66:1
+		   Contient des exemples : oui
+dl-lid
+	 ProtocolId :
+		 os1-dece:dl-lid:1
+		   Contient des exemples : oui
+dl-lp8p
+	 ProtocolId :
+		 dl:dl-lp8p:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-lp8p:1
+		   Contient des exemples : oui
+dl-mbx
+	 ProtocolId :
+		 dl:dl-mbx:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-mbx:1
+		   Contient des exemples : oui
+dl-optod
+	 ProtocolId :
+		 os1-dece:dl-optod:1
+		   Contient des exemples : oui
+dl-par
+	 ProtocolId :
+		 os1-dece:dl-par:1
+		   Contient des exemples : oui
+dl-pm
+	 ProtocolId :
+		 os1-dece:dl-pm:1
+		   Contient des exemples : oui
+dl-pr21
+	 ProtocolId :
+		 dl:dl-pr21:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-pr21:1
+		   Contient des exemples : oui
+dl-pr26
+	 ProtocolId :
+		 dl:dl-pr26:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-pr26:1
+		   Contient des exemples : oui
+dl-pr36
+	 ProtocolId :
+		 dl:dl-pr36:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-pr36:1
+		   Contient des exemples : oui
+dl-pr36ctd
+	 ProtocolId :
+		 dl:dl-pr36ctd:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-pr36ctd:1
+		   Contient des exemples : oui
+dl-pyr
+	 ProtocolId :
+		 os1-dece:dl-pyr:1
+		   Contient des exemples : oui
+dl-rhc
+	 ProtocolId :
+		 os1-dece:dl-rhc:1
+		   Contient des exemples : oui
+dl-sht35
+	 ProtocolId :
+		 dl:dl-sht35:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-sht35-001:1
+		   Contient des exemples : oui
+dl-sht35-002
+	 ProtocolId :
+		 os1-dece:dl-sht35-002:1
+		   Contient des exemples : oui
+dl-smtp
+	 ProtocolId :
+		 dl:dl-smtp:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-smtp:1
+		   Contient des exemples : oui
+dl-tbrg
+	 ProtocolId :
+		 dl:dl-tbrg:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-tbrg:1
+		   Contient des exemples : oui
+dl-trs11
+	 ProtocolId :
+		 dl:dl-trs11:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-trs11:1
+		   Contient des exemples : oui
+dl-trs12
+	 ProtocolId :
+		 dl:dl-trs12:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-trs12:1
+		   Contient des exemples : oui
+dl-trs21
+	 ProtocolId :
+		 dl:dl-trs21:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-dece:dl-trs21:1
+		   Contient des exemples : oui
+dl-wrm
+	 ProtocolId :
+		 os1-dece:dl-wrm:1
+		   Contient des exemples : oui
+dl-zn1-001
+	 ProtocolId :
+		 os1-dece:dl-zn1:1
+		   Contient des exemples : oui
+dl-zn1-002
+	 ProtocolId :
+		 os1-dece:dl-zn1:1
+		   Contient des exemples : oui
+dl-zn1-002_v2
+	 ProtocolId :
+		 os1-dece:dl-zn1:1
+		   Contient des exemples : oui
+dl-zn2-001
+	 ProtocolId :
+		 os1-dece:dl-zn2:1
+		   Contient des exemples : oui
+dl-zn2-002
+	 ProtocolId :
+		 os1-dece:dl-zn2:1
+		   Contient des exemples : oui
+
+Vendor: develiot
+ Model:
+rwmrxl
+	 ProtocolId :
+		 os1-deve:rwmrxl:1
+		   Contient des exemples : oui
+rwmr_v2
+	 ProtocolId :
+		 os1-deve:rwmr:2
+		   Contient des exemples : oui
+urban-air-quality-monitoring-station
+	 Aucun protocolId trouvé
+urban-noise-monitoring-station
+	 Aucun protocolId trouvé
+water-monitoring-station
+	 Aucun protocolId trouvé
+
+Vendor: dezem
+ Model:
+harvy-lr-36
+	 Aucun protocolId trouvé
+harvy-lr-360
+	 Aucun protocolId trouvé
+
+Vendor: digital_matter
+ Model:
+g62
+	 Aucun protocolId trouvé
+oyster_v60
+	 ProtocolId :
+		 os1-digi:oyster:60
+		   Contient des exemples : oui
+yabby-edge_v86
+	 ProtocolId :
+		 os1-digi:yabby-edge:86
+		   Contient des exemples : oui
+
+Vendor: dingtek
+ Model:
+dc410
+	 ProtocolId :
+		 os1-ding:dc410:1
+		   Contient des exemples : oui
+df530
+	 ProtocolId :
+		 os1-ding:df530:1
+		   Contient des exemples : oui
+df702
+	 ProtocolId :
+		 os1-ding:df702:1
+		   Contient des exemples : oui
+
+Vendor: dragino
+ Model:
+laq4_v2
+	 ProtocolId :
+		 os1-drag:laq4:2
+		   Contient des exemples : oui
+lbt1
+	 ProtocolId :
+		 os1-drag:lbt1:1
+		   Contient des exemples : oui
+ldds04_v2
+	 ProtocolId :
+		 os1-drag:ldds04:2
+		   Contient des exemples : oui
+ldds20_v4
+	 ProtocolId :
+		 os1-drag:ldds20:4
+		   Contient des exemples : oui
+ldds45_v2
+	 ProtocolId :
+		 os1-drag:ldds45:2
+		   Contient des exemples : oui
+ldds75_v4
+	 ProtocolId :
+		 os1-drag:ldds75:4
+		   Contient des exemples : oui
+lds01_v2
+	 ProtocolId :
+		 os1-drag:lds01:2
+		   Contient des exemples : oui
+lds02_v2
+	 ProtocolId :
+		 os1-drag:lds02:2
+		   Contient des exemples : oui
+lgt92_v2
+	 ProtocolId :
+		 os1-drag:lgt92:2
+		   Contient des exemples : oui
+lht65_v2
+	 ProtocolId :
+		 os1-drag:lht65:2
+		   Contient des exemples : oui
+llds12_v2
+	 ProtocolId :
+		 os1-drag:llds12:2
+		   Contient des exemples : oui
+llms01_v2
+	 ProtocolId :
+		 os1-drag:llms01:2
+		   Contient des exemples : oui
+lse01_v4
+	 ProtocolId :
+		 os1-drag:lse01:4
+		   Contient des exemples : oui
+lsn50-v2_v2
+	 ProtocolId :
+		 os1-drag:lsn50-v2:2
+		   Contient des exemples : oui
+lsn50v2-d20-d22_v2
+	 ProtocolId :
+		 os1-drag:lsn50v2-d20-d22:2
+		   Contient des exemples : oui
+lsn50v2-d20_v2
+	 ProtocolId :
+		 os1-drag:lsn50v2-d20:2
+		   Contient des exemples : oui
+lsn50v2-s31_v2
+	 ProtocolId :
+		 os1-drag:lsn50v2-s31:2
+		   Contient des exemples : oui
+lsnpk01_v2
+	 ProtocolId :
+		 os1-drag:lsnpk01:2
+		   Contient des exemples : oui
+lsph01_v2
+	 ProtocolId :
+		 os1-drag:lsph01:2
+		   Contient des exemples : oui
+lt22222-l_v2
+	 ProtocolId :
+		 os1-drag:lt22222-l:2
+		   Contient des exemples : oui
+lt33222-l_v2
+	 Aucun protocolId trouvé
+ltc2_v2
+	 ProtocolId :
+		 os1-drag:ltc2:2
+		   Contient des exemples : oui
+lwl01_v2
+	 ProtocolId :
+		 os1-drag:lwl01:2
+		   Contient des exemples : oui
+lwl02_v2
+	 ProtocolId :
+		 os1-drag:lwl02:2
+		   Contient des exemples : oui
+rs485-bl
+	 Aucun protocolId trouvé
+rs485-ln
+	 Aucun protocolId trouvé
+
+Vendor: eastron
+ Model:
+sdm630mct-lora
+	 ProtocolId :
+		 eastron:sdm630mct-lora:1
+		   Contient des exemples : oui
+
+Vendor: ellenex
+ Model:
+pls2-l
+	 ProtocolId :
+		 os1-elle:pls2-l:1
+		   Contient des exemples : oui
+pts2-l
+	 ProtocolId :
+		 ellenex:pts2-l:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-elle:pts2-l:1
+		   Contient des exemples : oui
+
+Vendor: elster
+ Model:
+merlin-868-hb-g3
+	 Aucun protocolId trouvé
+
+Vendor: elsys
+ Model:
+elt-2
+	 Aucun protocolId trouvé
+elt-lite
+	 Aucun protocolId trouvé
+elt-ultrasonic
+	 Aucun protocolId trouvé
+ems
+	 Aucun protocolId trouvé
+ems-desk
+	 Aucun protocolId trouvé
+ems-door
+	 Aucun protocolId trouvé
+ems-lite
+	 Aucun protocolId trouvé
+ers
+	 Aucun protocolId trouvé
+ers-co2
+	 Aucun protocolId trouvé
+ers-co2-lite
+	 Aucun protocolId trouvé
+ers-eye
+	 Aucun protocolId trouvé
+ers-lite
+	 Aucun protocolId trouvé
+ers-sound
+	 Aucun protocolId trouvé
+ers-voc
+	 Aucun protocolId trouvé
+
+Vendor: elvaco
+ Model:
+cmi4110-mcm
+	 Aucun protocolId trouvé
+
+Vendor: embit
+ Model:
+emb-lr1280-mpci-4x
+	 Aucun protocolId trouvé
+emb-lr1280s
+	 Aucun protocolId trouvé
+emb-lr1302-mpci
+	 Aucun protocolId trouvé
+emb-lrwl55
+	 Aucun protocolId trouvé
+
+Vendor: emu
+ Model:
+prof-ii
+	 ProtocolId :
+		 os1-emu:prof-ii:1
+		   Contient des exemples : oui
+
+Vendor: enless-wireless
+ Model:
+tx-pulse-600-036
+	 ProtocolId :
+		 enless-w:600-036:1
+		   Contient des exemples : oui
+tx-t&h-amb-600-021
+	 ProtocolId :
+		 enless-w:600-021:1
+		   Contient des exemples : oui
+
+Vendor: enthutech
+ Model:
+lbt1
+	 Aucun protocolId trouvé
+ldds20
+	 Aucun protocolId trouvé
+ldds75
+	 Aucun protocolId trouvé
+lds01
+	 Aucun protocolId trouvé
+lse01
+	 Aucun protocolId trouvé
+lsn50v2-d20
+	 Aucun protocolId trouvé
+lsn50v2-s31
+	 Aucun protocolId trouvé
+lwl01
+	 Aucun protocolId trouvé
+rs485-bl
+	 Aucun protocolId trouvé
+rs485-ln
+	 Aucun protocolId trouvé
+
+Vendor: espeasy
+ Model:
+rn2483-node-cla
+	 ProtocolId :
+		 os1-espe:rn2483-node-cla:1
+		   Contient des exemples : oui
+rn2483-nodeotaa
+	 ProtocolId :
+		 os1-espe:rn2483-nodeotaa:1
+		   Contient des exemples : oui
+rn2903-node-cla
+	 ProtocolId :
+		 os1-espe:rn2903-node-cla:1
+		   Contient des exemples : oui
+rn2903-nodeotaa
+	 ProtocolId :
+		 os1-espe:rn2903-nodeotaa:1
+		   Contient des exemples : oui
+
+Vendor: finsecur
+ Model:
+calypso
+	 Aucun protocolId trouvé
+
+Vendor: flashnet
+ Model:
+fre-220
+	 Aucun protocolId trouvé
+
+Vendor: fonda
+ Model:
+lcu16lora
+	 Aucun protocolId trouvé
+
+Vendor: foxconn
+ Model:
+infrared-motion-sensor---zb11a
+	 Aucun protocolId trouvé
+light-sensor---z311g
+	 Aucun protocolId trouvé
+temp-humidity---z716a
+	 Aucun protocolId trouvé
+ufispace-lora-parking-sensor
+	 Aucun protocolId trouvé
+
+Vendor: fullup
+ Model:
+fuelup
+	 Aucun protocolId trouvé
+
+Vendor: g2misuratori
+ Model:
+g2-ips-clw
+	 ProtocolId :
+		 g2misura:generic:1
+		   Contient des exemples : oui
+g2-ips-cwmb
+	 Aucun protocolId trouvé
+g2-rf-slw
+	 ProtocolId :
+		 g2misura:generic:1
+		   Contient des exemples : oui
+
+Vendor: generic
+ Model:
+coverage-testing-network-survey
+	 Aucun protocolId trouvé
+lorawan-1.0
+	 Aucun protocolId trouvé
+lorawan-1.0.2-as923-2
+	 Aucun protocolId trouvé
+lorawan-1.0.2-reva
+	 Aucun protocolId trouvé
+lorawan-1.0.2-revb
+	 Aucun protocolId trouvé
+lorawan-1.0.2-revb-no-ul-dl-dwell-time
+	 Aucun protocolId trouvé
+lorawan-1.0.2-revb-rx2-sf12
+	 Aucun protocolId trouvé
+lorawan-1.0.2-revc
+	 Aucun protocolId trouvé
+lorawan-1.0.3-as923-2
+	 Aucun protocolId trouvé
+lorawan-1.0.3-reva
+	 Aucun protocolId trouvé
+lorawan-1.0.3-reva-no-dl-dwell-time
+	 Aucun protocolId trouvé
+lorawan-1.0.4
+	 Aucun protocolId trouvé
+lorawan-1.1-reva
+	 Aucun protocolId trouvé
+
+Vendor: globalsat
+ Model:
+ls-111p
+	 Aucun protocolId trouvé
+ls-112p
+	 Aucun protocolId trouvé
+ls-113g
+	 Aucun protocolId trouvé
+lt-100-e
+	 Aucun protocolId trouvé
+lt-100-h
+	 Aucun protocolId trouvé
+lw-360hr
+	 Aucun protocolId trouvé
+
+Vendor: gwf
+ Model:
+rcm-lrw10
+	 ProtocolId :
+		 gwf:rcm-lrw10:1
+		   Contient des exemples : oui
+
+Vendor: heltec
+ Model:
+bwire-she
+	 Aucun protocolId trouvé
+ccaan-ab02a
+	 Aucun protocolId trouvé
+cccs-ac01
+	 Aucun protocolId trouvé
+ccdbp-ab02
+	 Aucun protocolId trouvé
+ccm-am01
+	 Aucun protocolId trouvé
+ccmp-am02
+	 Aucun protocolId trouvé
+ccss-ab01
+	 Aucun protocolId trouvé
+ccss-ab02
+	 Aucun protocolId trouvé
+ccss-ac02
+	 Aucun protocolId trouvé
+gps6502-ab02s
+	 Aucun protocolId trouvé
+lk151
+	 Aucun protocolId trouvé
+ln151
+	 Aucun protocolId trouvé
+tb
+	 Aucun protocolId trouvé
+wl32_v2
+	 Aucun protocolId trouvé
+wsh
+	 Aucun protocolId trouvé
+wsl
+	 Aucun protocolId trouvé
+wst
+	 Aucun protocolId trouvé
+
+Vendor: imbuildings
+ Model:
+comfort-sensor
+	 Aucun protocolId trouvé
+moodbox
+	 Aucun protocolId trouvé
+office-occupanc
+	 Aucun protocolId trouvé
+people-counter
+	 Aucun protocolId trouvé
+
+Vendor: imst
+ Model:
+ioke868
+	 ProtocolId :
+		 os1-imst:ioke868:1
+		   Contient des exemples : oui
+range-extender_v2
+	 ProtocolId :
+		 os1-imst:range-extender:2
+		   Contient des exemples : oui
+
+Vendor: innotas
+ Model:
+lora-wireless-water-meter
+	 ProtocolId :
+		 innotas:water-meter:1
+		   Contient des exemples : oui
+
+Vendor: invirtus
+ Model:
+ivtrack-lite
+	 ProtocolId :
+		 invirtus:ivtrack-lite:1
+		   Contient des exemples : oui
+
+Vendor: iot-factory
+ Model:
+asset-tracker
+	 Aucun protocolId trouvé
+m-bus-gateway
+	 ProtocolId :
+		 iot-fact:generic:1
+		   Contient des exemples : oui
+metering-node
+	 ProtocolId :
+		 iot-fact:generic:1
+		   Contient des exemples : oui
+personal-tracker
+	 ProtocolId :
+		 iot-fact:generic:1
+		   Contient des exemples : oui
+
+Vendor: iot4eu
+ Model:
+iot4-lora-th
+	 Aucun protocolId trouvé
+iot4-lora-thmove
+	 Aucun protocolId trouvé
+
+Vendor: iothings
+ Model:
+iotracker3
+	 Aucun protocolId trouvé
+
+Vendor: iotsens
+ Model:
+air-quality-monitor
+	 Aucun protocolId trouvé
+optical-distance-monitor
+	 Aucun protocolId trouvé
+sound-level-meter
+	 Aucun protocolId trouvé
+
+Vendor: itron
+ Model:
+cyble-5
+	 Aucun protocolId trouvé
+
+Vendor: izinto
+ Model:
+izi-io-4840
+	 Aucun protocolId trouvé
+izi-io-4840--grid
+	 Aucun protocolId trouvé
+izi-io-4840--heat
+	 Aucun protocolId trouvé
+
+Vendor: jeng-iot
+ Model:
+buzzon
+	 Aucun protocolId trouvé
+
+Vendor: jri
+ Model:
+lora-spy-th1
+	 ProtocolId :
+		 jri:lora-spy-th1:1
+		   Contient des exemples : oui
+
+Vendor: keller
+ Model:
+adt1-box
+	 ProtocolId :
+		 os1-kell:adt1-box:1
+		   Contient des exemples : oui
+adt1-tube
+	 ProtocolId :
+		 os1-kell:adt1-tube:1
+		   Contient des exemples : oui
+arc1-box
+	 ProtocolId :
+		 os1-kell:arc1-box:1
+		   Contient des exemples : oui
+arc1-tube
+	 ProtocolId :
+		 os1-kell:arc1-tube:1
+		   Contient des exemples : oui
+
+Vendor: kuleuven-dramco
+ Model:
+dramco-uno
+	 Aucun protocolId trouvé
+
+Vendor: laiier
+ Model:
+severn_wld
+	 ProtocolId :
+		 laiier:severn-wld:1
+		   Contient des exemples : oui
+
+Vendor: laird
+ Model:
+ext-multi
+	 ProtocolId :
+		 os1-lair:rs1xx-ext-multi:1
+		   Contient des exemples : oui
+ext-temp-1w
+	 ProtocolId :
+		 laird:ext-temp-1w:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-lair:rs1xx-ext-temp-1:1
+		   Contient des exemples : oui
+ext-temp-rtd
+	 ProtocolId :
+		 os1-lair:rs1xx-ext-temp-r:1
+		   Contient des exemples : oui
+temp-rh
+	 ProtocolId :
+		 laird:temp-rh:1
+		   Contient des exemples : oui
+	 ProtocolId :
+		 os1-lair:rs1xx-temp-rh-se:1
+		   Contient des exemples : oui
+
+Vendor: langyang
+ Model:
+auge-reader
+	 ProtocolId :
+		 langyang:smart-meter:5
+		   Contient des exemples : oui
+
+Vendor: lansitec
+ Model:
+temperature,-humidity
+	 Aucun protocolId trouvé
+
+Vendor: libelium
+ Model:
+ambient-control
+	 Aucun protocolId trouvé
+smart-agriculture-pro
+	 Aucun protocolId trouvé
+smart-agriculture-xtreme
+	 Aucun protocolId trouvé
+smart-cities-pro
+	 Aucun protocolId trouvé
+smart-environment-pro
+	 Aucun protocolId trouvé
+smart-security
+	 Aucun protocolId trouvé
+smart-water
+	 Aucun protocolId trouvé
+smart-water-ions
+	 Aucun protocolId trouvé
+
+Vendor: life_plus
+ Model:
+lpwatch
+	 Aucun protocolId trouvé
+
+Vendor: lumel
+ Model:
+nr32
+	 ProtocolId :
+		 lumel:nr32:1
+		   Contient des exemples : oui
+
+Vendor: mcci
+ Model:
+catena4430
+	 ProtocolId :
+		 os1-mcci:catena4430:1
+		   Contient des exemples : oui
+catena4450
+	 ProtocolId :
+		 os1-mcci:catena4450:1
+		   Contient des exemples : oui
+catena4460
+	 ProtocolId :
+		 os1-mcci:catena4460:1
+		   Contient des exemples : oui
+catena4470
+	 ProtocolId :
+		 os1-mcci:catena4470:1
+		   Contient des exemples : oui
+catena4610
+	 ProtocolId :
+		 os1-mcci:catena4610:1
+		   Contient des exemples : oui
+catena4612
+	 ProtocolId :
+		 os1-mcci:catena4612:1
+		   Contient des exemples : oui
+catena4618
+	 ProtocolId :
+		 os1-mcci:catena4618:1
+		   Contient des exemples : oui
+catena4618m201
+	 ProtocolId :
+		 os1-mcci:catena4618m201:1
+		   Contient des exemples : oui
+catena4801
+	 ProtocolId :
+		 os1-mcci:catena4801:1
+		   Contient des exemples : oui
+catena4802
+	 ProtocolId :
+		 os1-mcci:catena4802:1
+		   Contient des exemples : oui
+model4811
+	 ProtocolId :
+		 os1-mcci:model4811:1
+		   Contient des exemples : oui
+model4821
+	 ProtocolId :
+		 os1-mcci:model4821:1
+		   Contient des exemples : oui
+model4822
+	 ProtocolId :
+		 os1-mcci:model4822:1
+		   Contient des exemples : oui
+model4823
+	 ProtocolId :
+		 os1-mcci:model4823:1
+		   Contient des exemples : oui
+model4831
+	 ProtocolId :
+		 os1-mcci:model4831:1
+		   Contient des exemples : oui
+model4832
+	 ProtocolId :
+		 os1-mcci:model4832:1
+		   Contient des exemples : oui
+model4841
+	 ProtocolId :
+		 os1-mcci:model4841:1
+		   Contient des exemples : oui
+
+Vendor: mcf88
+ Model:
+mcf-lw06davk
+	 Aucun protocolId trouvé
+mcf-lw06davpk
+	 Aucun protocolId trouvé
+mcf-lw12co2
+	 Aucun protocolId trouvé
+mcf-lw12co2e
+	 Aucun protocolId trouvé
+mcf-lw12met
+	 Aucun protocolId trouvé
+mcf-lw12plg
+	 Aucun protocolId trouvé
+mcf-lw12ter
+	 Aucun protocolId trouvé
+mcf-lw12terpm
+	 Aucun protocolId trouvé
+mcf-lw12terwp
+	 Aucun protocolId trouvé
+mcf-lw12voc
+	 Aucun protocolId trouvé
+mcf-lw13io
+	 Aucun protocolId trouvé
+mcf-lw13mio
+	 Aucun protocolId trouvé
+mcf-lwws00
+	 Aucun protocolId trouvé
+mcf-lwws01
+	 Aucun protocolId trouvé
+mcf-lwws02
+	 Aucun protocolId trouvé
+mcf-lwws03
+	 Aucun protocolId trouvé
+
+Vendor: mclimate
+ Model:
+aqi-sensor
+	 ProtocolId :
+		 os1-mcli:aqi-sensor:1
+		   Contient des exemples : oui
+co2-sensor
+	 ProtocolId :
+		 os1-mcli:co2-sensor:1
+		   Contient des exemples : oui
+flood-sensor
+	 ProtocolId :
+		 os1-mcli:flood-sensor:1
+		   Contient des exemples : oui
+ht-sensor
+	 ProtocolId :
+		 os1-mcli:ht-sensor:1
+		   Contient des exemples : oui
+t-valve
+	 ProtocolId :
+		 os1-mcli:t-valve:1
+		   Contient des exemples : oui
+vicki
+	 ProtocolId :
+		 os1-mcli:vicki:1
+		   Contient des exemples : oui
+
+Vendor: merryiot
+ Model:
+cd10
+	 Aucun protocolId trouvé
+dw10
+	 Aucun protocolId trouvé
+ms10
+	 Aucun protocolId trouvé
+wl10
+	 Aucun protocolId trouvé
+
+Vendor: micropelt
+ Model:
+mlr003
+	 ProtocolId :
+		 os1-micr:mlr003:1
+		   Contient des exemples : oui
+
+Vendor: midatronics
+ Model:
+mkr-windy
+	 Aucun protocolId trouvé
+sharky
+	 Aucun protocolId trouvé
+windy-module
+	 Aucun protocolId trouvé
+
+Vendor: milesight-iot
+ Model:
+am103am103l
+	 ProtocolId :
+		 msight:am100-series:1
+		   Contient des exemples : oui
+am104
+	 ProtocolId :
+		 msight:am100-series:1
+		   Contient des exemples : oui
+am107
+	 ProtocolId :
+		 msight:am100-series:1
+		   Contient des exemples : oui
+am307
+	 ProtocolId :
+		 msight:am300-series:1
+		   Contient des exemples : oui
+am319
+	 ProtocolId :
+		 msight:am300-series:1
+		   Contient des exemples : oui
+at101
+	 ProtocolId :
+		 msight:at101:1
+		   Contient des exemples : oui
+em300-mcs
+	 ProtocolId :
+		 msight:em300-mcs:1
+		   Contient des exemples : oui
+em300-sld
+	 ProtocolId :
+		 msight:em300-sld:1
+		   Contient des exemples : oui
+em300-th
+	 ProtocolId :
+		 msight:em300-th:1
+		   Contient des exemples : oui
+em300-zld
+	 Aucun protocolId trouvé
+em310-tilt
+	 ProtocolId :
+		 msight:em310-tilt:1
+		   Contient des exemples : oui
+em310-udl
+	 ProtocolId :
+		 msight:em310-udl:1
+		   Contient des exemples : oui
+em320-th
+	 ProtocolId :
+		 msight:em320-th:1
+		   Contient des exemples : oui
+em500-co2
+	 ProtocolId :
+		 msight:em500-co2:1
+		   Contient des exemples : oui
+em500-lgt
+	 ProtocolId :
+		 msight:em500-lgt:1
+		   Contient des exemples : oui
+em500-pp
+	 ProtocolId :
+		 msight:em500-pp:1
+		   Contient des exemples : oui
+em500-pt100
+	 ProtocolId :
+		 msight:em500-pt100:1
+		   Contient des exemples : oui
+em500-smt
+	 Aucun protocolId trouvé
+em500-smtc
+	 Aucun protocolId trouvé
+em500-swl
+	 ProtocolId :
+		 msight:em500-swl:1
+		   Contient des exemples : oui
+em500-udl
+	 ProtocolId :
+		 msight:em500-udl:1
+		   Contient des exemples : oui
+gs101
+	 ProtocolId :
+		 msight:gs101:1
+		   Contient des exemples : oui
+uc100
+	 ProtocolId :
+		 msight:uc100:1
+		   Contient des exemples : oui
+uc1114
+	 Aucun protocolId trouvé
+uc1122
+	 Aucun protocolId trouvé
+uc1152
+	 Aucun protocolId trouvé
+uc300
+	 ProtocolId :
+		 msight:uc300:1
+		   Contient des exemples : oui
+uc50x
+	 Aucun protocolId trouvé
+uc51x
+	 Aucun protocolId trouvé
+vs121
+	 ProtocolId :
+		 msight:vs121:1
+		   Contient des exemples : oui
+vs132
+	 ProtocolId :
+		 msight:vs132:1
+		   Contient des exemples : oui
+ws101
+	 ProtocolId :
+		 msight:ws101:1
+		   Contient des exemples : oui
+ws136ws156
+	 ProtocolId :
+		 msight:ws136ws156:1
+		   Contient des exemples : oui
+ws202
+	 ProtocolId :
+		 msight:ws202:1
+		   Contient des exemples : oui
+ws301
+	 ProtocolId :
+		 msight:ws301:1
+		   Contient des exemples : oui
+ws302
+	 ProtocolId :
+		 msight:ws302:1
+		   Contient des exemples : oui
+ws50x
+	 ProtocolId :
+		 msight:ws50x:1
+		   Contient des exemples : oui
+ws52x
+	 ProtocolId :
+		 msight:ws52x:1
+		   Contient des exemples : oui
+ws558
+	 ProtocolId :
+		 msight:ws558:1
+		   Contient des exemples : oui
+wts305
+	 ProtocolId :
+		 msight:wts305:1
+		   Contient des exemples : oui
+
+Vendor: moirelabs
+ Model:
+p1ap
+	 ProtocolId :
+		 os1-moir:p1ap:1
+		   Contient des exemples : oui
+p1at
+	 ProtocolId :
+		 os1-moir:p1at:1
+		   Contient des exemples : oui
+
+Vendor: moko
+ Model:
+lw001-bg
+	 Aucun protocolId trouvé
+lw002-th
+	 Aucun protocolId trouvé
+lw003-b
+	 Aucun protocolId trouvé
+lw004
+	 Aucun protocolId trouvé
+lw004-pb
+	 Aucun protocolId trouvé
+lw005-mp
+	 Aucun protocolId trouvé
+mklxxx-series
+	 Aucun protocolId trouvé
+
+Vendor: move-x
+ Model:
+mamwle
+	 Aucun protocolId trouvé
+
+Vendor: multitech
+ Model:
+mdot-box
+	 Aucun protocolId trouvé
+xdot
+	 Aucun protocolId trouvé
+
+Vendor: mutelcor
+ Model:
+mtc-cf01
+	 Aucun protocolId trouvé
+mtc-co2-01
+	 Aucun protocolId trouvé
+mtc-mh01
+	 Aucun protocolId trouvé
+mtc-pb01
+	 Aucun protocolId trouvé
+mtc-scb01
+	 Aucun protocolId trouvé
+
+Vendor: nasys
+ Model:
+luminaire-controller-nema-ul2020-ul2021
+	 Aucun protocolId trouvé
+multical-module-1
+	 Aucun protocolId trouvé
+
+Vendor: netvox
+ Model:
+r311a
+	 ProtocolId :
+		 os1-netv:r311a:10
+		   Contient des exemples : oui
+r311b
+	 ProtocolId :
+		 os1-netv:r311b:10
+		   Contient des exemples : oui
+r311ca
+	 ProtocolId :
+		 os1-netv:r311ca:10
+		   Contient des exemples : oui
+r311cb
+	 ProtocolId :
+		 os1-netv:r311cb:10
+		   Contient des exemples : oui
+r311cc
+	 ProtocolId :
+		 os1-netv:r311cc:10
+		   Contient des exemples : oui
+r311d
+	 ProtocolId :
+		 os1-netv:r311d:10
+		   Contient des exemples : oui
+r311da
+	 ProtocolId :
+		 os1-netv:r311da:10
+		   Contient des exemples : oui
+r311db
+	 ProtocolId :
+		 os1-netv:r311db:10
+		   Contient des exemples : oui
+r311fa
+	 ProtocolId :
+		 os1-netv:r311fa:10
+		   Contient des exemples : oui
+r311fb
+	 ProtocolId :
+		 os1-netv:r311fb:10
+		   Contient des exemples : oui
+r311fc
+	 ProtocolId :
+		 os1-netv:r311fc:10
+		   Contient des exemples : oui
+r311g
+	 ProtocolId :
+		 os1-netv:r311g:10
+		   Contient des exemples : oui
+r311la
+	 ProtocolId :
+		 os1-netv:r311la:10
+		   Contient des exemples : oui
+r311w
+	 ProtocolId :
+		 os1-netv:r311w:10
+		   Contient des exemples : oui
+r312
+	 ProtocolId :
+		 os1-netv:r312:10
+		   Contient des exemples : oui
+r312a
+	 ProtocolId :
+		 os1-netv:r312a:10
+		   Contient des exemples : oui
+r313ma
+	 ProtocolId :
+		 os1-netv:r312a:10
+		   Contient des exemples : oui
+r602a
+	 ProtocolId :
+		 os1-netv:r602a:10
+		   Contient des exemples : oui
+r711
+	 ProtocolId :
+		 os1-netv:r711:10
+		   Contient des exemples : oui
+r711a
+	 ProtocolId :
+		 os1-netv:r711a:10
+		   Contient des exemples : oui
+r718a
+	 ProtocolId :
+		 os1-netv:r718a:10
+		   Contient des exemples : oui
+r718ab
+	 ProtocolId :
+		 os1-netv:r718ab:10
+		   Contient des exemples : oui
+r718ad
+	 ProtocolId :
+		 os1-netv:r718ad:10
+		   Contient des exemples : oui
+r718b
+	 ProtocolId :
+		 os1-netv:r718b:10
+		   Contient des exemples : oui
+r718b2
+	 ProtocolId :
+		 os1-netv:r718b2:10
+		   Contient des exemples : oui
+r718ck
+	 ProtocolId :
+		 os1-netv:r718ck:10
+		   Contient des exemples : oui
+r718ck2
+	 ProtocolId :
+		 os1-netv:r718ck2:10
+		   Contient des exemples : oui
+r718ct
+	 ProtocolId :
+		 os1-netv:r718ct:10
+		   Contient des exemples : oui
+r718ct2
+	 ProtocolId :
+		 os1-netv:r718ct2:10
+		   Contient des exemples : oui
+r718da
+	 ProtocolId :
+		 os1-netv:r718da:10
+		   Contient des exemples : oui
+r718da2
+	 ProtocolId :
+		 os1-netv:r718da2:10
+		   Contient des exemples : oui
+r718db
+	 ProtocolId :
+		 os1-netv:r718db:10
+		   Contient des exemples : oui
+r718db2
+	 ProtocolId :
+		 os1-netv:r718db2:10
+		   Contient des exemples : oui
+r718e
+	 ProtocolId :
+		 os1-netv:r718e:10
+		   Contient des exemples : oui
+r718f
+	 ProtocolId :
+		 os1-netv:r718f:10
+		   Contient des exemples : oui
+r718f2
+	 ProtocolId :
+		 os1-netv:r718f2:10
+		   Contient des exemples : oui
+r718g
+	 ProtocolId :
+		 os1-netv:r718g:10
+		   Contient des exemples : oui
+r718h
+	 ProtocolId :
+		 os1-netv:r718h:10
+		   Contient des exemples : oui
+r718h2
+	 ProtocolId :
+		 os1-netv:r718h2:10
+		   Contient des exemples : oui
+r718ia
+	 ProtocolId :
+		 os1-netv:r718ia:10
+		   Contient des exemples : oui
+r718ib
+	 ProtocolId :
+		 netvox:lorawan:1
+		   Contient des exemples : oui
+r718j
+	 ProtocolId :
+		 os1-netv:r718j:10
+		   Contient des exemples : oui
+r718j2
+	 ProtocolId :
+		 os1-netv:r718j2:10
+		   Contient des exemples : oui
+r718ka
+	 ProtocolId :
+		 os1-netv:r718ka:10
+		   Contient des exemples : oui
+r718lb
+	 ProtocolId :
+		 os1-netv:r718lb:10
+		   Contient des exemples : oui
+r718lb2
+	 ProtocolId :
+		 os1-netv:r718lb2:10
+		   Contient des exemples : oui
+r718ma
+	 ProtocolId :
+		 netvox:lorawan:1
+		   Contient des exemples : oui
+r718mba
+	 ProtocolId :
+		 os1-netv:r718mba:10
+		   Contient des exemples : oui
+r718mbb
+	 ProtocolId :
+		 os1-netv:r718mbb:10
+		   Contient des exemples : oui
+r718mbc
+	 ProtocolId :
+		 os1-netv:r718mbc:10
+		   Contient des exemples : oui
+r718n1
+	 ProtocolId :
+		 os1-netv:r718n1:10
+		   Contient des exemples : oui
+r718n3
+	 ProtocolId :
+		 os1-netv:r718n3:10
+		   Contient des exemples : oui
+r718n325
+	 ProtocolId :
+		 netvox:lorawan:1
+		   Contient des exemples : oui
+r718q
+	 ProtocolId :
+		 os1-netv:r718q:10
+		   Contient des exemples : oui
+r718qa
+	 ProtocolId :
+		 os1-netv:r718qa:10
+		   Contient des exemples : oui
+r718t
+	 ProtocolId :
+		 os1-netv:r718t:10
+		   Contient des exemples : oui
+r718wa
+	 ProtocolId :
+		 os1-netv:r718wa:10
+		   Contient des exemples : oui
+r718wb
+	 ProtocolId :
+		 os1-netv:r718wb:10
+		   Contient des exemples : oui
+r720a
+	 ProtocolId :
+		 os1-netv:r720a:10
+		   Contient des exemples : oui
+r720f
+	 ProtocolId :
+		 os1-netv:r720f:10
+		   Contient des exemples : oui
+r72615
+	 ProtocolId :
+		 os1-netv:r72615:10
+		   Contient des exemples : oui
+r72615a
+	 ProtocolId :
+		 os1-netv:r72615a:10
+		   Contient des exemples : oui
+r72616
+	 ProtocolId :
+		 os1-netv:r72616:10
+		   Contient des exemples : oui
+r72616a
+	 ProtocolId :
+		 os1-netv:r72616a:10
+		   Contient des exemples : oui
+r72716
+	 ProtocolId :
+		 os1-netv:r72716:10
+		   Contient des exemples : oui
+r730da
+	 ProtocolId :
+		 os1-netv:r730da:10
+		   Contient des exemples : oui
+r730db
+	 ProtocolId :
+		 os1-netv:r730db:10
+		   Contient des exemples : oui
+r730mba
+	 ProtocolId :
+		 os1-netv:r730mba:10
+		   Contient des exemples : oui
+r809a
+	 ProtocolId :
+		 os1-netv:r809a:10
+		   Contient des exemples : oui
+r816b
+	 ProtocolId :
+		 os1-netv:r816b:10
+		   Contient des exemples : oui
+ra02a
+	 ProtocolId :
+		 netvox:lorawan:1
+		   Contient des exemples : oui
+ra0715
+	 ProtocolId :
+		 os1-netv:ra0715:10
+		   Contient des exemples : oui
+ra0715y
+	 ProtocolId :
+		 os1-netv:ra0715y:10
+		   Contient des exemples : oui
+ra0716
+	 ProtocolId :
+		 os1-netv:ra0716:10
+		   Contient des exemples : oui
+rb02i
+	 ProtocolId :
+		 os1-netv:rb02i:10
+		   Contient des exemples : oui
+rb11e
+	 ProtocolId :
+		 netvox:lorawan:1
+		   Contient des exemples : oui
+
+Vendor: nexelec
+ Model:
+aero-co2
+	 ProtocolId :
+		 nexelec:generic:1
+		   Contient des exemples : oui
+atmo
+	 Aucun protocolId trouvé
+carbon
+	 ProtocolId :
+		 os1-nexe:carbon:1
+		   Contient des exemples : oui
+feel
+	 ProtocolId :
+		 nexelec:generic2:1
+		   Contient des exemples : oui
+insafe
+	 ProtocolId :
+		 nexelec:insafe-origin:1
+		   Contient des exemples : oui
+move
+	 ProtocolId :
+		 nexelec:generic2:1
+		   Contient des exemples : oui
+origin-plus
+	 ProtocolId :
+		 nexelec:generic3:1
+		   Contient des exemples : oui
+pmi
+	 Aucun protocolId trouvé
+rise
+	 ProtocolId :
+		 nexelec:generic2:1
+		   Contient des exemples : oui
+sense
+	 Aucun protocolId trouvé
+sign
+	 ProtocolId :
+		 nexelec:generic2:1
+		   Contient des exemples : oui
+
+Vendor: nke
+ Model:
+atmo_v3
+	 Aucun protocolId trouvé
+bob
+	 Aucun protocolId trouvé
+celso_v3
+	 Aucun protocolId trouvé
+closo-sensor_v3
+	 Aucun protocolId trouvé
+flasho_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+humido_v3
+	 Aucun protocolId trouvé
+ino
+	 Aucun protocolId trouvé
+ino-sensor_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+intenso_v3
+	 Aucun protocolId trouvé
+levo-plus_v3
+	 Aucun protocolId trouvé
+netwo
+	 Aucun protocolId trouvé
+presso_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+pulse-senso-atex_v3
+	 Aucun protocolId trouvé
+pulse-senso_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+remote-t_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+skydome_v3
+	 Aucun protocolId trouvé
+smart-plug_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+t-2-ctn_v3
+	 Aucun protocolId trouvé
+t-indoor_v3
+	 Aucun protocolId trouvé
+th_v3
+	 Aucun protocolId trouvé
+torano-atex_v3
+	 Aucun protocolId trouvé
+triphaso_v3
+	 Aucun protocolId trouvé
+vaqao-plus_v3
+	 Aucun protocolId trouvé
+vaqao_v3
+	 Aucun protocolId trouvé
+ventilo_v3
+	 ProtocolId :
+		 nke:zcl:1
+		   Contient des exemples : oui
+
+Vendor: noah
+ Model:
+trashbin-sensor
+	 ProtocolId :
+		 os1-noah:trashbin-sensor:1
+		   Contient des exemples : oui
+
+Vendor: nwave
+ Model:
+nps310sm
+	 ProtocolId :
+		 os1-nwav:nps310sm:1
+		   Contient des exemples : oui
+
+Vendor: onethinx
+ Model:
+onethinx-lorawan-module
+	 Aucun protocolId trouvé
+
+Vendor: origoelec
+ Model:
+ed10w
+	 Aucun protocolId trouvé
+ed20w
+	 Aucun protocolId trouvé
+
+Vendor: parametric
+ Model:
+pcr2-in
+	 Aucun protocolId trouvé
+rdr
+	 Aucun protocolId trouvé
+
+Vendor: pf
+ Model:
+wsd-2500
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsd-4000
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsd-7000
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsl-2500
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsl-2500_v2
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsl-4000
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsl-4000_v2
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+wsl-7000
+	 ProtocolId :
+		 pf:wilsen:1
+		   Contient des exemples : oui
+
+Vendor: plenom
+ Model:
+busylight_v4
+	 ProtocolId :
+		 os1-plen:busylight:4
+		   Contient des exemples : oui
+
+Vendor: pnicorp
+ Model:
+vs-na915lr
+	 Aucun protocolId trouvé
+
+Vendor: quandify
+ Model:
+cubicmeter
+	 Aucun protocolId trouvé
+
+Vendor: rakwireless
+ Model:
+rak7431-wisnode-bridge-serial
+	 Aucun protocolId trouvé
+wisblock-starter-kit-rak4631
+	 Aucun protocolId trouvé
+
+Vendor: rouxcel
+ Model:
+rhino-watch
+	 Aucun protocolId trouvé
+
+Vendor: ruixinghengfang-network
+ Model:
+rhf0m003
+	 Aucun protocolId trouvé
+rhf0m0e5
+	 Aucun protocolId trouvé
+rhf1s052
+	 Aucun protocolId trouvé
+rhf1s213
+	 Aucun protocolId trouvé
+rhf3mr01
+	 Aucun protocolId trouvé
+
+Vendor: semtech
+ Model:
+loramote-eu-fw4
+	 Aucun protocolId trouvé
+lr1110
+	 Aucun protocolId trouvé
+
+Vendor: senlab
+ Model:
+4ma-41ns
+	 Aucun protocolId trouvé
+lea-13ns
+	 Aucun protocolId trouvé
+led-41ns
+	 Aucun protocolId trouvé
+ope-41ns
+	 Aucun protocolId trouvé
+pir-41ns
+	 Aucun protocolId trouvé
+ptl-41ns
+	 Aucun protocolId trouvé
+pul-13xs
+	 Aucun protocolId trouvé
+pul-41ns
+	 Aucun protocolId trouvé
+tem-41ns
+	 Aucun protocolId trouvé
+thy-41ns
+	 Aucun protocolId trouvé
+tor-41ns
+	 Aucun protocolId trouvé
+
+Vendor: sensaio
+ Model:
+sensa-press
+	 ProtocolId :
+		 sensaio:generic:1
+		   Contient des exemples : oui
+sensa-temp
+	 ProtocolId :
+		 sensaio:generic:1
+		   Contient des exemples : oui
+sensa-valv
+	 ProtocolId :
+		 sensaio:generic:1
+		   Contient des exemples : oui
+
+Vendor: sensative
+ Model:
+strips
+	 ProtocolId :
+		 sensativ:strips:1
+		   Contient des exemples : oui
+
+Vendor: sensecap
+ Model:
+air-th
+	 ProtocolId :
+		 os1-seap:air-th:1
+		   Contient des exemples : oui
+co2
+	 ProtocolId :
+		 os1-seap:co2:1
+		   Contient des exemples : oui
+light
+	 ProtocolId :
+		 os1-seap:light:1
+		   Contient des exemples : oui
+loramodule-e5_v2
+	 ProtocolId :
+		 os1-seap:loramodule-e5:2
+		   Contient des exemples : oui
+pressure
+	 ProtocolId :
+		 os1-seap:pressure:1
+		   Contient des exemples : oui
+s2100
+	 Aucun protocolId trouvé
+s2101
+	 Aucun protocolId trouvé
+s2102
+	 Aucun protocolId trouvé
+s2103
+	 Aucun protocolId trouvé
+s2104
+	 Aucun protocolId trouvé
+s2105
+	 Aucun protocolId trouvé
+s2120
+	 Aucun protocolId trouvé
+soil-th
+	 ProtocolId :
+		 os1-seap:soil-th:1
+		   Contient des exemples : oui
+t1000
+	 ProtocolId :
+		 sensecap:t1000:1
+		   Contient des exemples : oui
+t1110
+	 ProtocolId :
+		 sensecap:t1110:1
+		   Contient des exemples : oui
+
+Vendor: sensedge
+ Model:
+senstick-pro
+	 Aucun protocolId trouvé
+senstick-pure
+	 Aucun protocolId trouvé
+
+Vendor: sezo
+ Model:
+el
+	 Aucun protocolId trouvé
+
+Vendor: skiply
+ Model:
+smilio-a
+	 ProtocolId :
+		 skiply:smilio-a:1
+		   Contient des exemples : oui
+
+Vendor: slscorp
+ Model:
+nln500a
+	 Aucun protocolId trouvé
+
+Vendor: smart-parks
+ Model:
+rhinoedge-cube
+	 Aucun protocolId trouvé
+rhinoedge-puck-34
+	 Aucun protocolId trouvé
+rhinoedge-puck-50
+	 Aucun protocolId trouvé
+
+Vendor: socomec
+ Model:
+diris-b-10l
+	 ProtocolId :
+		 socomec:diris-b-10l:1
+		   Contient des exemples : oui
+
+Vendor: solvera
+ Model:
+combox-l---2t-b
+	 Aucun protocolId trouvé
+combox-l---ci-b
+	 Aucun protocolId trouvé
+combox-l---di-b
+	 Aucun protocolId trouvé
+
+Vendor: sting
+ Model:
+pengy_v2
+	 ProtocolId :
+		 os1-stin:pengy:2
+		   Contient des exemples : oui
+
+Vendor: stmicroelectronics
+ Model:
+nucleo-wl55jc1_v3
+	 ProtocolId :
+		 os1-stmi:nucleo-wl55jc1:3
+		   Contient des exemples : oui
+nucleo-wl55jc2_v3
+	 ProtocolId :
+		 os1-stmi:nucleo-wl55jc2:3
+		   Contient des exemples : oui
+
+Vendor: strega
+ Model:
+motorized-valve
+	 Aucun protocolId trouvé
+smart-emitter
+	 Aucun protocolId trouvé
+smart-switch
+	 Aucun protocolId trouvé
+smart-valve
+	 Aucun protocolId trouvé
+
+Vendor: swisscom
+ Model:
+multisense
+	 ProtocolId :
+		 swisscom:multisense:1
+		   Contient des exemples : oui
+
+Vendor: talkpool
+ Model:
+oy1100
+	 ProtocolId :
+		 os1-talk:oy1100:1
+		   Contient des exemples : oui
+oy1110
+	 ProtocolId :
+		 os1-talk:oy1110:1
+		   Contient des exemples : oui
+oy1200
+	 ProtocolId :
+		 os1-talk:oy1200:1
+		   Contient des exemples : oui
+oy1210
+	 ProtocolId :
+		 os1-talk:oy1210:1
+		   Contient des exemples : oui
+oy1320
+	 ProtocolId :
+		 os1-talk:oy1320:1
+		   Contient des exemples : oui
+oy1700
+	 ProtocolId :
+		 os1-talk:oy1700:1
+		   Contient des exemples : oui
+
+Vendor: tektelic
+ Model:
+t000489x-smart-r_v4
+	 ProtocolId :
+		 os1-tekt:t000489x-smart-r:4
+		   Contient des exemples : oui
+t00048xx-smart-r_v4
+	 ProtocolId :
+		 os1-tekt:t00048xx-smart-r:4
+		   Contient des exemples : oui
+t00053xx-industr
+	 ProtocolId :
+		 os1-tekt:t00053xx-industr:1
+		   Contient des exemples : oui
+t00055xx-industr
+	 ProtocolId :
+		 os1-tekt:t00055xx-industr:1
+		   Contient des exemples : oui
+t00056xx-industr
+	 ProtocolId :
+		 os1-tekt:t00056xx-industr:1
+		   Contient des exemples : oui
+t000589x-ac-outl
+	 ProtocolId :
+		 os1-tekt:t000589x-ac-outl:0
+		   Contient des exemples : oui
+t000589x-ac-swit
+	 ProtocolId :
+		 os1-tekt:t000589x-ac-swit:0
+		   Contient des exemples : oui
+t000594x-enterpr
+	 ProtocolId :
+		 os1-tekt:t000594x-enterpr:0
+		   Contient des exemples : oui
+t00059xx-agricul
+	 ProtocolId :
+		 os1-tekt:t00059xx-agricul:1
+		   Contient des exemples : oui
+t0006129-industr
+	 ProtocolId :
+		 os1-tekt:t0006129-industr:0
+		   Contient des exemples : oui
+t00061xx-smagen3_v2
+	 ProtocolId :
+		 os1-tekt:t00061xx-smagen3:2
+		   Contient des exemples : oui
+t00061xx-smart-r_v2
+	 ProtocolId :
+		 os1-tekt:t00061xx-smart-r:2
+		   Contient des exemples : oui
+t000662x-ac-outl
+	 ProtocolId :
+		 os1-tekt:t000662x-ac-outl:0
+		   Contient des exemples : oui
+t000662x-ac-swit
+	 ProtocolId :
+		 os1-tekt:t000662x-ac-swit:0
+		   Contient des exemples : oui
+t00067xx-tundra
+	 ProtocolId :
+		 os1-tekt:t00067xx-tundra:1
+		   Contient des exemples : oui
+t00073xx-tundra
+	 ProtocolId :
+		 os1-tekt:t00073xx-tundra:1
+		   Contient des exemples : oui
+
+Vendor: tekzitel
+ Model:
+tekzipark
+	 ProtocolId :
+		 os1-tekz:tekzipark:1
+		   Contient des exemples : oui
+
+Vendor: teneo-iot
+ Model:
+co2-stoplicht
+	 ProtocolId :
+		 os1-tene:co2-stoplicht:1
+		   Contient des exemples : oui
+filling-degree-s
+	 ProtocolId :
+		 os1-tene:filling-degree-s:1
+		   Contient des exemples : oui
+soil-moisture-se
+	 ProtocolId :
+		 os1-tene:soil-moisture-se:1
+		   Contient des exemples : oui
+
+Vendor: terabee
+ Model:
+lm-xl
+	 ProtocolId :
+		 os1-tera:lora-lm-xl:1
+		   Contient des exemples : oui
+pc-l-xl
+	 ProtocolId :
+		 terabee:pc-l-xl:1
+		   Contient des exemples : oui
+
+Vendor: the-box-development
+ Model:
+temperature-and-humidity-sensor
+	 Aucun protocolId trouvé
+
+Vendor: the-things-industries
+ Model:
+generic-node-sensor-edition
+	 Aucun protocolId trouvé
+
+Vendor: the-things-network
+ Model:
+esp32-paxcounter_v3
+	 Aucun protocolId trouvé
+
+Vendor: the-things-products
+ Model:
+the-things-node
+	 Aucun protocolId trouvé
+the-things-uno_v2
+	 Aucun protocolId trouvé
+
+Vendor: thingsofficer
+ Model:
+boatofficer-blue
+	 Aucun protocolId trouvé
+
+Vendor: tinovi
+ Model:
+pm-io-5-sm
+	 ProtocolId :
+		 os1-tino:pm-io-5-sm:1
+		   Contient des exemples : oui
+
+Vendor: tpl-sys
+ Model:
+birdy-slim-iot
+	 Aucun protocolId trouvé
+
+Vendor: turbo_tech
+ Model:
+tbs-200
+	 Aucun protocolId trouvé
+
+Vendor: twave_tech
+ Model:
+smove
+	 Aucun protocolId trouvé
+
+Vendor: twtg
+ Model:
+neon-ts
+	 ProtocolId :
+		 twtg:neon-ts:1
+		   Contient des exemples : oui
+neon-tt
+	 ProtocolId :
+		 twtg:neon-tt:4
+		   Contient des exemples : oui
+neon-tt_v2
+	 ProtocolId :
+		 twtg:neon-tt:4
+		   Contient des exemples : oui
+neon-vb
+	 ProtocolId :
+		 twtg:neon-vb:3
+		   Contient des exemples : oui
+neon-vb_v2
+	 ProtocolId :
+		 twtg:neon-vb:3
+		   Contient des exemples : oui
+neon-vs-mt
+	 ProtocolId :
+		 twtg:vs-mt:1
+		   Contient des exemples : oui
+neon-vs-qt
+	 ProtocolId :
+		 twtg:vs-qt:1
+		   Contient des exemples : oui
+
+Vendor: uradmonitor
+ Model:
+model-a3
+	 ProtocolId :
+		 os1-urad:model-a3:1
+		   Contient des exemples : oui
+model-industrial
+	 ProtocolId :
+		 os1-urad:model-industrial:1
+		   Contient des exemples : oui
+
+Vendor: volley_boast
+ Model:
+gp-1
+	 Aucun protocolId trouvé
+gp-1_v2
+	 ProtocolId :
+		 vobo:generic:2
+		   Contient des exemples : oui
+hl-1
+	 Aucun protocolId trouvé
+hl-1_v2
+	 ProtocolId :
+		 vobo:generic:2
+		   Contient des exemples : oui
+sl_v1
+	 ProtocolId :
+		 vobo:generic:2
+		   Contient des exemples : oui
+tc_v1
+	 ProtocolId :
+		 vobo:generic:2
+		   Contient des exemples : oui
+xp_v1
+	 ProtocolId :
+		 vobo:generic:2
+		   Contient des exemples : oui
+
+Vendor: vutility
+ Model:
+hotdrop-direct
+	 Aucun protocolId trouvé
+
+Vendor: watteco
+ Model:
+atm'o_v4
+	 Aucun protocolId trouvé
+clos'o_v4
+	 Aucun protocolId trouvé
+flash'o_v4
+	 Aucun protocolId trouvé
+in'o_v4
+	 Aucun protocolId trouvé
+inclin'o_v4
+	 Aucun protocolId trouvé
+indoor-temperature_v4
+	 Aucun protocolId trouvé
+intens'o_v4
+	 Aucun protocolId trouvé
+lev'o_v4
+	 Aucun protocolId trouvé
+modbus_v4
+	 Aucun protocolId trouvé
+monit'o_v4
+	 Aucun protocolId trouvé
+move'o_v4
+	 Aucun protocolId trouvé
+outdoor-temperature_v4
+	 Aucun protocolId trouvé
+pilot-wire_v4
+	 Aucun protocolId trouvé
+press'o_v4
+	 Aucun protocolId trouvé
+pulse-sens'o-atex_v4
+	 Aucun protocolId trouvé
+pulse-sens'o_v4
+	 Aucun protocolId trouvé
+remote-temperature2_v4
+	 Aucun protocolId trouvé
+remote-temperature_v4
+	 Aucun protocolId trouvé
+smartplug_v4
+	 Aucun protocolId trouvé
+th_v4
+	 Aucun protocolId trouvé
+tics'o_v4
+	 Aucun protocolId trouvé
+toran'o-atex_v4
+	 Aucun protocolId trouvé
+triphas'o_v4
+	 Aucun protocolId trouvé
+vaqa'o-lt_v4
+	 Aucun protocolId trouvé
+vaqa'o-plus_v4
+	 Aucun protocolId trouvé
+vaqa'o_v4
+	 Aucun protocolId trouvé
+ventil'o_v4
+	 Aucun protocolId trouvé
+
+Vendor: wellness
+ Model:
+actis-nema7
+	 Aucun protocolId trouvé
+
+Vendor: xignal
+ Model:
+mousetrap
+	 ProtocolId :
+		 os1-xign:mousetrap:1
+		   Contient des exemples : oui
+rattrap
+	 ProtocolId :
+		 os1-xign:rattrap:1
+		   Contient des exemples : oui
+
+Vendor: yokogawa
+ Model:
+sushi-pressure
+	 Aucun protocolId trouvé
+sushi-temp
+	 Aucun protocolId trouvé
+sushi-vib
+	 ProtocolId :
+		 yokogawa:sushi:1
+		   Contient des exemples : oui
+
+Vendor: yosensi
+ Model:
+agribox
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+airflow-pro
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+analog
+	 Aucun protocolId trouvé
+distance
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+h2o
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+meter-pulse
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+modbus
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+people-counter
+	 Aucun protocolId trouvé
+power
+	 Aucun protocolId trouvé
+pulse
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+pure-pro
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+refrigerant-monitor
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+temp
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+yo-360
+	 ProtocolId :
+		 yosensi:generic:1
+		   Contient des exemples : oui
+
+Vendor: zenner
+ Model:
+co2-ind-ID-A
+	 ProtocolId :
+		 zenner:co2-ind-ID-A:1
+		   Contient des exemples : oui
