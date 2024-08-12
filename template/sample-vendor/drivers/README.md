@@ -13,6 +13,7 @@ You can either follow the LoRa Alliance standard codec API described [here](http
           - [Uplink decode](#uplink-decode)
           - [Downlink encode](#downlink-encode)
           - [Downlink decode](#downlink-decode)
+      - [Context](#store-and-reload-context)
       - [Payload examples](#payload-examples)
       - [Json schemas](#json-schemas)
     - [Packaging](#packaging)
@@ -235,7 +236,56 @@ The returned `output` is represented by the following json-schema:
 }
 ```
 
+### Store and reload context
+
+On some devices, some information from a previous payload are useful for the current one. Thus, a context array is accessible to the driver's developer where some info can be injected/retrieved while decoding/encoding payloads.
+
+This context is based on DevEUI, so each device has its own context, even if several devices use the same driver.
+
+The context in the driver's environment is an array of flexible JSON objects.
+
+#### Store a context
+
+Inside a driver, data can be injected to the context: `context.push()`.
+
+##### Example:
+
+```javascript
+function decodeUplink(input){
+    const raw = Buffer.from(input.bytes);
+    const temperature = raw.readInt16BE(1)/100;
+    context.push({
+        time: input.recvTime,
+        currentValue: temperature
+    });
+    ...
+}
+```
+
+#### Reload a context
+
+Inside a driver, data can be retrieved from the context:
+- Using `context.shift()` to load the latest context saved.
+- Using `context[index]` to load a specific context by using the index.
+
+##### Example:
+
+```javascript
+function decodeUplink(input){
+    const latestContext = context.shift();
+    const latestTemperature = latestContext["currentValue"];
+
+    const raw = Buffer.from(input.bytes);
+    const temperature = raw.readInt16BE(1)/100;
+    
+    const averageTwoMeasures = (temperature + latestTemperature) / 2;
+    ...
+}
+```
+
 ### Payload examples
+
+:warning: **WARNING:** This section concerns only drivers that follow this guide and respect "lora-alliance" signature and format. For any other format/signature (ttn, chirpstack, actility), the examples should follow the section [Legacy Payload Examples](#legacy-payload-examples-only-signatures-other-than-lora-alliance-are-concerned).
 
 The following section describes the examples of the payloads of the driver.
 
@@ -665,12 +715,24 @@ exports.decodeDownlink = decodeDownlink;
 exports.encodeDownlink = encodeDownlink;
 ```
 
-### Add jest dependency
+### Add dependencies
 
-To add the jest dependency, please run the following command:
+To add the dependencies, add the following to the `package.json` file: 
+
+```json
+"devDependencies": {
+    "fs-extra": "^11.2.0",
+    "isolated-vm": "^4.7.2",
+    "jest": "^29.7.0",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7"
+  }
+```
+
+Then run the following command:
 
 ```shell
-npm install --save-dev jest
+npm install
 ```
 
 ### Update package.json to add a script
@@ -682,8 +744,6 @@ First, you need to add the `test` script in the `package.json`:
     "test": "jest --collectCoverage"
   }
 ```
-
-Then, you will be able to launch tests using command `npm test`.
 
 **Note:** If your driver does not support a function `encodeDownlink`, all you have to do is to comment/remove the part related to `encodeDownlink` testing inside the pre-implemented test file.
 
@@ -778,3 +838,224 @@ files and directories of the driver.
 **Important:** You must avoid including the non-necessary files into the `.tgz` file as the `node_modules`
 and `coverage` directories for example. (This can be done by adding a `.npmignore` file).
  the driver 
+
+#### Points extraction
+
+Points can be extracted once an uplink has been decoded. In order to extract points, a driver must provide the following function:
+
+```javascript
+function extractPoints(input) {...}
+```
+
+The `input` is an object provided by the IoT Flow framework that is represented by the following json-schema:
+
+```json
+{
+    "message": {
+        "description": "the object message as returned by the decodeUplink function",
+        "type": "object",
+        "required": true
+    },
+    "time": {
+        "description": "the datetime of the uplink message, it is a real javascript Date object",
+        "type": "string",
+        "format": "date-time",
+        "required": true
+    }
+}
+```
+
+The returned object must be:
+- The wrapped object from the decoded one in case all the event are done at the same time, respecting the ontology.
+  Here's an example:
+```json
+{
+    "temperature": 31.4,
+    "location": [48.875158, 2.333822],
+    "fft": [0.32, 0.33, 0.4523, 0.4456, 0.4356]
+}
+```
+- OR, it is defined by the following json-schema in case the point has several values in different timestamp.
+
+```json
+{
+  "type": "object",
+  "additionalProperties": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "eventTime": {
+          "type": "string",
+          "format": "date-time",
+          "required": true
+        },
+        "value": {
+          "type": ["string", "number", "boolean"],
+          "required": false
+        }
+      }
+    }
+  }
+}
+```
+Here's an example:
+```json
+{
+  "temperature": [
+    {
+      "eventTime": "2019-01-01T10:00:00+01:00",
+      "value": 31.4
+    },
+    {
+      "eventTime": "2019-01-01T11:00:00+01:00",
+      "value": 31.2
+    },
+    {
+      "eventTime": "2019-01-01T12:00:00+01:00",
+      "value": 32
+    }
+  ]
+}
+```
+
+----------------------------------------------------------------
+
+### Legacy payload examples (only signatures other than lora-alliance are concerned)
+
+The following section describes the examples of the payloads of the driver.
+
+Several examples of uplink and downlink payloads must be declared directly in the driver's root directory and especially in a directory `/examples`. The name of each examples file must follow the pattern `*.examples.json`. You can split and organize the examples files according to your own logic.
+
+These examples will be used in order to provide for the users of the driver some examples of the payload to be decoded/encoded to test the driver. In addition, it will be used to facilitate the testing of the driver while development.
+
+An `*.examples.json` file contains an array of several uplink/downlink examples. You can find an example of this file in the driver example.
+
+#### Example
+
+The uplink/downlink example used is an object represented by the following json-schema:
+
+```json
+{
+    "description": {
+        "description": "the description of the uplink/downlink example",
+        "type": "string",
+        "required": true
+    },
+    "type": {
+        "description": "the type of the uplink/downlink example. type 'downlink' is used for both downlink decoding/encoding in case the function exist.",
+        "type": "string",
+        "enum": ["uplink", "downlink"],
+        "required": true
+    },
+    "bytes": {
+        "description": "the uplink/downlink payload expressed in hexadecimal",
+        "type": "string",
+        "required": true
+    },
+    "fPort": {
+        "description": "the uplink/downlink message LoRaWAN fPort",
+        "type": "number",
+        "required": true
+    },
+    "time": {
+        "description": "the uplink/downlink message time",
+        "type": "string",
+        "format": "date-time",
+        "required": false
+    },
+    "data": {
+        "description": "the decoded uplink/downlink view as an output",
+        "type": "object",
+        "required": true
+    }
+}
+```
+
+### Legacy error examples (only signatures other than lora-alliance are concerned)
+
+These errors examples has a similar concept of the payloads examples.
+
+To benefit from the automation of the tests, you must create a directory in the driver package named `/errors`. Inside, the name of each error examples file must follow the pattern `*.errors.json`. You can split and organize the errors files according to your own logic.
+
+**Note:** These errors examples will be only used for unit tests and will not be stored in our framework.
+
+An `*.errors.json` file contains an array of several uplink/downlink errors examples.
+
+##### decodeUplink/decodeDownlink error example
+
+The error example used to test `decodeUplink`/`decodeDownlink` function is an object represented by the following json-schema:
+
+```json
+"description": {
+        "description": "the description of the error example",
+        "type": "string",
+        "required": true
+    },
+    "type": {
+        "description": "the type of the example",
+        "type": "string",
+        "enum":  ["uplink", "downlink"],
+        "required": true
+    },
+    "bytes": {
+        "description": "the uplink/downlink payload expressed in hexadecimal",
+        "type": "string",
+        "required": true
+    },
+    "fPort": {
+        "description": "the uplink/downlink message LoRaWAN fPort",
+        "type": "number",
+        "required": true
+    },
+    "time": {
+        "description": "the uplink/downlink message time",
+        "type": "string",
+        "format": "date-time",
+        "required": false
+    },
+    "error": {
+        "description": "the error that should be thrown in case of wrong input",
+        "type": "string",
+        "required": true
+    }
+```
+
+##### encodeDownlink error example
+
+The error example used to test `encodeDownlink` function is an object represented by the following json-schema:
+
+```json
+"description": {
+        "description": "the description of the error example",
+        "type": "string",
+        "required": true
+    },
+    "type": {
+        "description": "the type of the example",
+        "type": "string",
+        "enum":  ["downlink"],
+        "required": true
+    },
+    "fPort": {
+        "description": "the downlink message LoRaWAN fPort",
+        "type": "number",
+        "required": true
+    },
+    "time": {
+        "description": "the downlink message time",
+        "type": "string",
+        "format": "date-time",
+        "required": false
+    },
+    "data": {
+        "description": "the input to the encodeDownlink function",
+        "type": "object",
+        "required": true
+    },
+    "error": {
+        "description": "the error that should be thrown in case of wrong input",
+        "type": "string",
+        "required": true
+    }
+```
