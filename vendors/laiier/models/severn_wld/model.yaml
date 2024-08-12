@@ -45,6 +45,7 @@ sensors:
   - acceleration:gravity
   - interval:minute
   - leak:state
+  - batteryVoltage:V
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
