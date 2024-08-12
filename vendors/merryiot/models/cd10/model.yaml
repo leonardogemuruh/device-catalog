@@ -43,3 +43,4 @@ sensors:
     - temperature:Cel
     - humidity:%RH
     - batteryVoltage:V
+    - status:state

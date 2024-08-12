@@ -39,6 +39,14 @@ specificationURL: https://adeunis.freshdesk.com/helpdesk/attachments/22047399406
 userGuideURL: 
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
+  - counter:count
+  - co2Level:ppm
+  - humidity:%RH
+  - temperature:Cel
+  - time:minute
+  - time:s
+  - time:h
+  - duration:ms
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:

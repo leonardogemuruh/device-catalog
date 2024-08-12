@@ -42,3 +42,4 @@ sensors:
     - humidity:%RH
     - batteryVoltage:V
     - time:s
+    - status:state

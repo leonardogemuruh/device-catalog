@@ -36,7 +36,8 @@ userGuideURL: https://adeunis.notion.site/Guide-Utilisateur-PULSE-IP68-LoRaWAN-E
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
     - duration:s
-    - time:s
+    - counter:count
+    - time:ms
 # Driver examples
 # A list of examples description that are compatible with this model
 examples:
