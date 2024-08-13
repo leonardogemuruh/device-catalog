@@ -41,7 +41,6 @@ specificationURL: https://www.jri.fr/images/1-PRODUITS/EnregistreursSansFil/LoRa
 userGuideURL: https://www.jri.fr/images/1-PRODUITS/EnregistreursSansFil/LoRaSPY/11819O_LoRa_Spy_FR.pdf
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
-  - time:s
   - batteryVoltage:V
   - temperature:Cel
   - humidity:%RH
