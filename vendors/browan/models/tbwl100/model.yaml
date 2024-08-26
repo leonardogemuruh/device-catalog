@@ -38,9 +38,9 @@ modelId: browan:tbwl100:1
 protocolId: 
     - os1-brow:tbwl100:1
 # DataSheet URL (optional) 
-specificationURL: 
+specificationURL: https://www.manualslib.com/manual/2926470/Browan-Pico-Next.html#manual
 # User Guide URL (optional) 
-userGuideURL: 
+userGuideURL: https://www.manualslib.com/manual/1905595/Browan-Tbam100-Series.html#manual
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors:
 # Driver examples

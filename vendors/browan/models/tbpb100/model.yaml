@@ -40,7 +40,7 @@ protocolId:
 # DataSheet URL (optional) 
 specificationURL: 
 # User Guide URL (optional) 
-userGuideURL: 
+userGuideURL: https://www.manualslib.com/manual/2926470/Browan-Pico-Next.html#manual
 # <sensor>:<unitId> Available sensors following Actility ontology: https://github.com/actility/device-catalog/blob/main/template/sample-vendor/drivers/ONTOLOGY.md
 sensors: 
 # Driver examples
