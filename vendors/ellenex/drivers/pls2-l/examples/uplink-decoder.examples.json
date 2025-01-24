@@ -5,9 +5,18 @@
         "bytes": "01E800FB58000022",
         "fPort": 1,
         "time": "2020-08-02T20:00:00.000+05:00",
+        "thing": {
+            "setup": {
+                "sensorZero": 100,
+                "sensorSpan": 20000,
+                "sensorRange": 125000,
+                "sensorUnit": "hPa"
+            }
+        },
         "data": {
             "level": -1192,
-            "battery": 3.4
+            "battery": 3.4,
+            "pressure": -8115.577889447236
         }
     },
     {
@@ -16,9 +25,18 @@
         "bytes": "01E80000D6000022",
         "fPort": 1,
         "time": "2020-08-02T20:00:00.000+05:00",
+        "thing": {
+            "setup": {
+                "sensorZero": 100,
+                "sensorSpan": 20000,
+                "sensorRange": 125000,
+                "sensorUnit": "hPa"
+            }
+        },
         "data": {
             "level": 214,
-            "battery": 3.4
+            "battery": 3.4,
+            "pressure": 716.0804020100503
         }
     }
 ]

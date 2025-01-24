@@ -6,6 +6,33 @@ function decodeUplink(input) {
     }
     result.level = readHex2bytes(input.bytes[3], input.bytes[4]);
     result.battery = +(input.bytes[7] * 0.1).toFixed(1);
+
+    if(input.thing.setup.sensorZero && input.thing.setup.sensorSpan && input.thing.setup.sensorRange && input.thing.setup.sensorUnit) {
+        let sR = parseInt(input.thing.setup.sensorRange);
+        let sS = parseInt(input.thing.setup.sensorSpan);
+        let sZ = parseInt(input.thing.setup.sensorZero);
+        let unit = input.thing.setup.sensorUnit;
+
+        let pressureValue = sR * (result.level - sZ) / (sS - sZ);
+
+        if(unit === "hPa" || unit === "mbar") {
+            pressureValue = pressureValue;
+        }
+        else if(unit === "kPa") {
+            pressureValue *= 10;
+        }
+        else if(unit === "Pa") {
+            pressureValue /= 100;
+        }
+        else if(unit === "bar") {
+            pressureValue *= 1000;
+        }
+        else if(unit === "kg/m2") {
+            pressureValue /= 10.197162129779;
+        }
+        result.pressure = pressureValue;
+      }
+    
     return result;
 }
 
