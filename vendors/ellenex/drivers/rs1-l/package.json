@@ -1,0 +1,17 @@
+{
+  "name": "ellenex-rs1-l",
+  "version": "1.0.0",
+  "description": "Driver codec for Ellenex RS1-L payloads",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "metadata": "metadata.json",
+  "devDependencies": {
+    "fs-extra": "^11.2.0",
+    "isolated-vm": "^4.7.2",
+    "jest": "^29.7.0",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7"
+  }
+}
